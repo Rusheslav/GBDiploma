@@ -1,0 +1,1 @@
+from handlers import verbs, verbs_data, letters, translate, words, milon, dict, other
