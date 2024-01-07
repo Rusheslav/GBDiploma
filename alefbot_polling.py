@@ -12,7 +12,7 @@ verbs.register_handlers_verbs(dp)
 letters.register_handlers_letters(dp)
 translate.register_handlers_translate(dp)
 words.register_handlers_words(dp)
-# milon.register_handlers_milon(dp)
+milon.register_handlers_milon(dp)
 other.register_handlers_other(dp)
 
 
